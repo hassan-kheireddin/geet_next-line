@@ -42,7 +42,7 @@ char *get_next_line(int fd);
 ## Installation:
 1. Clone the repository:
    ```bash
-   git clone
+   git clone https://github.com/hassan-kheireddin/get_next_line.git
    ```
 2. Enter the folder:
    ```bash
