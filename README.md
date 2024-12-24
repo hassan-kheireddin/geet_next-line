@@ -48,7 +48,3 @@ char *get_next_line(int fd);
    ```bash
    cd GNL
    ```
-3. Compile:
-   ```bash
-   make
-   ```
